@@ -2,12 +2,12 @@
 
 # Features:
 
-➡ MovieWatchr: Track and organize all the movies you've watched.
-➡ FunkyFlix Ratings: Express your unique taste with personalized movie ratings.
-➡ IMDb Magic: Fetch comprehensive movie data with a touch of funk from IMDb.
-➡ Groovy Components: Experience seamless navigation with our funky fresh components.
-➡ Smooth Moves: State-of-the-art state management for swift performance.
-➡ Popcorn Popularity: Calculate overall average ratings blending user funkiness and IMDb data.
+➡ MovieWatchr: Track and organize all the movies you've watched.<br>
+➡ FunkyFlix Ratings: Express your unique taste with personalized movie ratings.<br>
+➡ IMDb Magic: Fetch comprehensive movie data with a touch of funk from IMDb.<br>
+➡ Groovy Components: Experience seamless navigation with our funky fresh components.<br>
+➡ Smooth Moves: State-of-the-art state management for swift performance.<br>
+➡ Popcorn Popularity: Calculate overall average ratings blending user funkiness and IMDb data.<br>
  
 # Description:
 Welcome to FlixFlow, where movie tracking gets a whole lot funkier! Keep the rhythm of your movie marathon with MovieWatchr, a groovy tool to log all your watched flicks in style.
